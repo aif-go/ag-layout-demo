@@ -3,8 +3,8 @@ package internal
 import (
 	"ag-layout-demo/internal/svcgen"
 
-	"gitlab.allinfinance.com/aifgo/ag-core/ag/ag_common/agmetadata"
-	"gitlab.allinfinance.com/aifgo/ag-core/contribute/agdb"
+	"github.com/aif-go/ag-core/ag/ag_common/agmetadata"
+	"github.com/aif-go/ag-core/contribute/agdb"
 )
 
 func init() {
