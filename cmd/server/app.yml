@@ -14,8 +14,8 @@ kitex:
 hertz:
   server:
     port: 9997
-    adaptive-port: true
-    service-name: ${server.name}-http
+    adaptivePort: true
+    serviceName: ${server.name}-http
 
 nacos:
   config:
